@@ -2,4 +2,4 @@
 
 ## CLI test
 
-Project description goes here
+Test
